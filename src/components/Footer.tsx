@@ -1,10 +1,11 @@
-import { Github, Linkedin, Twitter, Mail } from 'lucide-react';
+import { Github, Linkedin, Twitter, DownloadCloud, Mail } from 'lucide-react';
 
 export const Footer = () => {
   const socialLinks = [
     { icon: Github, url: 'https://github.com/luckydevstar', label: 'GitHub' },
     // { icon: Linkedin, url: 'https://linkedin.com', label: 'LinkedIn' },
     // { icon: Twitter, url: 'https://twitter.com', label: 'Twitter' },
+    { icon: DownloadCloud, url: "https://drive.google.com/file/d/1qY598RhlrTZIeQ4I5bkRj3WkVCsIc_mx/view?usp=sharing", label: "Download Resume Here"},
     { icon: Mail, url: 'mailto:johnezekiele30@gmail.com', label: 'Email' },
   ];
 
