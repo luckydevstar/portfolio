@@ -5,14 +5,16 @@ export const HeroSection = () => {
     <section className="relative z-10 min-h-screen flex items-center justify-center px-6">
       <div className="container mx-auto text-center">
         <div className="mb-6">
+
           <span className="inline-block px-4 py-2 bg-cyan-500/10 border border-cyan-500/30 rounded-full text-cyan-400 text-sm font-medium mb-6">
             Welcome to My Portfolio
           </span>
         </div>
-
-        <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 animate-fade-in">
-          Full Stack Developer
-        </h1>
+        <a href="https://drive.google.com/file/d/1x6z-QDCC-eULnc8LMiIneymf7ced21Bu/view?usp=sharing" target="_blank">
+          <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 animate-fade-in underline hover:text-blue-400">
+            Full Stack Developer
+          </h1>
+        </a>
 
         <p className="text-xl md:text-2xl text-gray-300 mb-4 max-w-2xl mx-auto">
           Crafting exceptional digital experiences with modern technologies

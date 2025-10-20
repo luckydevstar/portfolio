@@ -5,8 +5,8 @@ export const Footer = () => {
     { icon: Github, url: 'https://github.com/luckydevstar', label: 'GitHub' },
     // { icon: Linkedin, url: 'https://linkedin.com', label: 'LinkedIn' },
     // { icon: Twitter, url: 'https://twitter.com', label: 'Twitter' },
-    { icon: DownloadCloud, url: "https://drive.google.com/file/d/1qY598RhlrTZIeQ4I5bkRj3WkVCsIc_mx/view?usp=sharing", label: "Download Resume Here"},
     { icon: Mail, url: 'mailto:johnezekiele30@gmail.com', label: 'Email' },
+    { icon: DownloadCloud, url: "https://drive.google.com/file/d/1x6z-QDCC-eULnc8LMiIneymf7ced21Bu/view?usp=sharing", label: "Download Resume Here"},
   ];
 
   const techStack = [
