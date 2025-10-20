@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "title": "E-Commerce Platform",
+      "description": "A full-stack e-commerce solution with real-time inventory management",
+      "image": "https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "liveUrl": "https://example.com",
+      "techStack": ["React", "Node.js", "MongoDB", "Stripe", "AWS"]
+    },
+    {
+      "id": 2,
+      "title": "Task Management System",
+      "description": "Collaborative task management with real-time updates and team analytics",
+      "image": "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "liveUrl": "https://example.com",
+      "techStack": ["Next.js", "TypeScript", "Tailwind", "Supabase", "Vercel"]
+    },
+    {
+      "id": 3,
+      "title": "Healthcare Dashboard",
+      "description": "Patient management system with appointment scheduling and medical records",
+      "image": "https://images.pexels.com/photos/4386466/pexels-photo-4386466.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "liveUrl": "https://example.com",
+      "techStack": ["Angular", "Python", "Django", "PostgreSQL", "Docker"]
+    },
+    {
+      "id": 4,
+      "title": "AI Content Generator",
+      "description": "AI-powered content creation tool with multiple language support",
+      "image": "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "liveUrl": "https://example.com",
+      "techStack": ["React", "FastAPI", "OpenAI", "Redis", "Docker"]
+    },
+    {
+      "id": 5,
+      "title": "Social Media Analytics",
+      "description": "Comprehensive social media analytics dashboard with data visualization",
+      "image": "https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "liveUrl": "https://example.com",
+      "techStack": ["Next.js", "NestJS", "GraphQL", "Azure", "Chart.js"]
+    },
+    {
+      "id": 6,
+      "title": "Real Estate Marketplace",
+      "description": "Property listing platform with advanced search and virtual tours",
+      "image": "https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "liveUrl": "https://example.com",
+      "techStack": ["React", "Express", "MongoDB", "Mapbox", "AWS"]
+    }
+  ]
+  

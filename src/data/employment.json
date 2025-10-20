@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "company": "Olafluence",
+      "role": "Senior Software Engineer",
+      "period": "March 2024 - June 2025"
+    },
+    {
+      "id": 2,
+      "company": "Foxpay",
+      "role": "Software Engineer",
+      "period": "June 2021 - February 2024"
+    },
+    {
+      "id": 3,
+      "company": "Arcanys",
+      "role": "Full Stack Developer",
+      "period": "July 2018 - May 2021"
+    }
+  ]
+  
